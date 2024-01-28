@@ -15,4 +15,3 @@ Week 6: Search Algorithms: Depth-First search, Breadth-First search, Binary Sear
 
 Week 7: Greedy Algorithms, Dynamic Programming
 
-Week 8: Project presentations
